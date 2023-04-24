@@ -11,5 +11,20 @@ __1. First Iteration (Compare and Swap)__
 - Now, compare the second and the third elements. Swap them if they are not in order.
 - The above process goes on until the last element.
 
-https://www.programiz.com/sites/tutorial2program/files/Bubble-sort-0.png
+![Bubble-sort-0](https://user-images.githubusercontent.com/113619312/234092150-f827869a-fcb6-4f48-9607-241c003ed99c.png)
 
+__2. Remaining Iteration__
+
+The same process goes on for the remaining iterations.
+
+After each iteration, the largest element among the unsorted elements is placed at the end.
+
+![Bubble-sort-1](https://user-images.githubusercontent.com/113619312/234092386-a9e6c169-bec5-4791-8862-07d1de9ed671.png)
+
+In each iteration, the comparison takes place up to the last unsorted element.
+
+![Bubble-sort-2](https://user-images.githubusercontent.com/113619312/234092542-a5c94cfd-4986-4c12-bc08-4fca62fcfbe3.png)
+
+The array is sorted when all the unsorted elements are placed at their correct positions.
+
+![Bubble-sort-3](https://user-images.githubusercontent.com/113619312/234092841-4f2dd85a-2b20-44a0-b3c8-6dd105895e25.png)
